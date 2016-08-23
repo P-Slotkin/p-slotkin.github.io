@@ -3013,6 +3013,7 @@
 		-ms-flex-direction: row;
 		flex-direction: row;
 		min-height: 22.5em;
+    border-bottom: 2px solid rgba(255,255,255,0.10);
 	}
 
 		body.is-ie .spotlights > section {

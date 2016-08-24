@@ -1,3 +1,3 @@
 # p-slotkin.github.io
 
-http://peterslotkin.me
+This is my portfolio site. The live version is located at http://peterslotkin.me
